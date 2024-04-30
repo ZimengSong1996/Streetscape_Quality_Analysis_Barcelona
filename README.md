@@ -3,6 +3,8 @@ How Street-View Features Influencing Perceived Streetscape Quality: The Case of 
 
 This project, developed at UCL CASA (Centre for Advanced Spatial Analysis), focuses on investigating how the visual perception of streetscapes influences people's impressions of different places. For a comprehensive overview of this research, please refer to the Program_Analysis.ipynb notebook.
 
+All contents see the main file: `Program_Analysis.ipynb`
+
 The program outlined in this notebook includes several detailed steps:
 1. Downloading Street View Images: Utilizes the Google Earth API to retrieve street view images for analysis.
 2. Image Semantic Segmentation: Implements advanced techniques to segment images into meaningful parts, enhancing the analysis of visual components.
