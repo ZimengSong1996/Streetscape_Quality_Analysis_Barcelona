@@ -1,7 +1,7 @@
 # Barcelona_Streetscape_Quality_Analysis
 How Street-View Features Influencing Perceived Streetscape Quality: The Case of Barcelona
 
-This project, developed at UCL CASA (Centre for Advanced Spatial Analysis), focuses on investigating how the visual perception of streetscapes influences people's impressions of different places. For a comprehensive overview of this research, please refer to the Program_Analysis.ipynb notebook.
+This is my individual programe from UCL CASA (Centre for Advanced Spatial Analysis), focuses on investigating how the visual perception of streetscapes influences people's impressions of different places. For a comprehensive overview of this research, please refer to the Program_Analysis.ipynb notebook.
 
 All contents see the main file: `Program_Analysis.ipynb`
 
